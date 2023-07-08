@@ -1,0 +1,25 @@
+{
+  "name": "read-complex-json",
+  "version": "1.0.0",
+  "description": "A npm library for reading and fetching values from a complex json object. You just need to pass the key you want and it will give the value/values wherever it is present in the json object.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayush1109/read-complex-json.git"
+  },
+  "keywords": [
+    "json",
+    "json-parser",
+    "json-reader",
+    "json-reader"
+  ],
+  "author": "Ayush Garg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayush1109/read-complex-json/issues"
+  },
+  "homepage": "https://github.com/ayush1109/read-complex-json#readme"
+}
